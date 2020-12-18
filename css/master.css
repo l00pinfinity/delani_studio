@@ -9,7 +9,8 @@ body{
   height: 500px;
 }
 
-.info{
+.info,
+.info-3 {
   text-align: center;
   margin: 3em;
 }
