@@ -8,3 +8,8 @@ body{
   background-image: url("../assets/backgrounds/h_img.jpg");
   height: 500px;
 }
+
+.info{
+  text-align: center;
+  margin: 3em;
+}
