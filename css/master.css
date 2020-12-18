@@ -13,3 +13,11 @@ body{
   text-align: center;
   margin: 3em;
 }
+
+.info-2{
+  text-align: center;
+  margin: 3em;
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  color: whitesmoke;
+  height: 300px;
+}
