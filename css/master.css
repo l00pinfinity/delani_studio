@@ -23,3 +23,11 @@ body{
   color: whitesmoke;
   height: 300px;
 }
+
+.info-5{
+  text-align: center;
+  margin: 3em;
+  background-image: url("../assets/backgrounds/c_image.jpg");
+  color: whitesmoke;
+  height: 300px;
+}
