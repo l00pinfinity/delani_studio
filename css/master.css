@@ -33,6 +33,24 @@ body{
   height: 400px;
 }
 
+input[type=text],
+textarea[type=text],
+input[type=email] {
+  background-color:transparent;
+  color: white;
+}
+
+#social_icons img{
+  border-radius: 50%;
+  transition: 0.2s ease-out;
+}
+
+#social_icons img:hover{
+  box-shadow: 0 0 20px rgb(255, 148, 13);
+  margin: -3px;
+  padding: 3px;
+}
+
 .footer{
   justify-content: center;
   text-align: center;
