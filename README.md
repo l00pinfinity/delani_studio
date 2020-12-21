@@ -4,7 +4,7 @@ Delani Studio
 # Project description
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
 
-# Author(s) information
+# Author information
 Collins Boit
 
 
@@ -17,14 +17,11 @@ Collins Boit
     `cd reponame`
 
 3. Run the launch command
-    `firefox index.html`
+    `open index.html in chrome`
 
 # BDD
-* Get user input
-    -
-    -
-* Get
-* Get
+* 
+* 
 
 
 
