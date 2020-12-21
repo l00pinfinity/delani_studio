@@ -21,7 +21,7 @@ Collins Boit
 
 # BDD
 * Get user input
-    - 
+    -
     -
 * Get
 * Get
@@ -38,7 +38,7 @@ Collins Boit
 
 # Screenshots
 
-![App Screenshot](link to the image)
+![App Screenshot](Delani Studio.jpg)
 
 # Live link
 

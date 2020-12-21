@@ -35,8 +35,8 @@ body{
 }
 
 input[type=text],
-textarea[type=text],
-input[type=email] {
+input[type=email],
+textarea[type=text], {
   background-color:transparent;
   color: white;
 }
@@ -68,6 +68,12 @@ input[type=email] {
   display: none;
   background: rgba(0, 0, 0, 0.582);
   transition: all 0.4s ease;
+}
+
+.reveal{
+  text-align:left;
+  color: white;
+  font-size: 3em;
 }
 
 #social_icons img{
