@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
   document.querySelector('#info_name').onkeyup = () => {
     document.querySelector('#submit').disabled = true;
   }
-  document.querySelector('#info_email').onkeyup = () => {
+  document.querySelector('#info_message').onkeyup = () => {
     document.querySelector('#submit').disabled = false;
   }
   document.querySelector('form').onsubmit = function () {
