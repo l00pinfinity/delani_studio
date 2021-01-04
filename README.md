@@ -1,4 +1,5 @@
 # Project name
+
 Delani Studio
 
 # Project description
@@ -20,8 +21,8 @@ Collins Boit
     `open index.html in chrome`
 
 # BDD
-* 
-* 
+* Displays thank you message after form submition. 
+* Animate portfolio part with project names
 
 
 
