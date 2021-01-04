@@ -36,7 +36,7 @@ Collins Boit
 
 # Screenshots
 
-![App Screenshot](Delani Studio.jpg)
+![App Screenshot](https://github.com/l00pinfinity/delani_studio/blob/main/%20Delani%20Studio.jpg)
 
 # Live link
 
