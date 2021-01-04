@@ -91,3 +91,8 @@ textarea[type=text], {
   justify-content: center;
   text-align: center;
 }
+
+.footer p:hover{
+  color: rgb(255, 148, 13);
+  cursor: pointer;
+}
